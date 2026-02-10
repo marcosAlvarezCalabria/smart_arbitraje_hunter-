@@ -1,0 +1,18 @@
+{
+  "asin": "B07PGL2N7J",
+  "title": "Sample Product",
+  "stats": {
+    "current": [2599, 2499, 0, 2200],
+    "avg30": [2499, 2399, 0, 2400],
+    "avg90": [2399, 2299, 0, 2600]
+  },
+  "csv": [
+    null,
+    [2400, 2450, 2500, 2550]
+  ],
+  "buyBoxSellerIdHistory": ["A1", "A2", "A3"],
+  "referralFeePercent": 0.15,
+  "fbaFees": {
+    "pickAndPackFee": 375
+  }
+}
